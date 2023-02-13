@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <Number name = "Amish Soni" age = {22} />
         <Number name = "Ankit Kumar" age = {22 }/>
-        <Number name = "Soni" age = {23} />
+        <Number name = "Soni" age = {23}  />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
